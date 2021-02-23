@@ -1,0 +1,2 @@
+# Student-s-Marks-Prediction-Model-_-TSF-
+This is my Task-1 as a Data Science and Business Analytics Intern at The Sparks Foundation. The task was supposed to predict the marks of a student if he/she studies for 9.25 hours. I have done this task using Supervised Machine Learning Algorithm. I have used Simple Linear Regression to build the prediction model as the dataset involves two variables that is Hours and Scores.
